@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "yarn tailwindcss -i ./tailwind.css -o ./public/styles.css --watch"
+    "dev": "yarn tailwindcss -i ./tailwind.css -o ./styles.css --watch"
   },
   "dependencies": {
     "autoprefixer": "^10.4.12",
